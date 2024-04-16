@@ -24,9 +24,15 @@ In this project, I did an exploratory data analysis on a Telco dataset to find w
 
 Customer Profile Overview
 👤 Customer ID: Unique identifier facilitating personalized engagement and loyalty programs for enhanced customer experience.
+
 🔄 Churn Index: Dynamic metric gauging the propensity of customers to churn, enabling proactive retention measures and revenue protection.
+
 💰 Total Charge: Financial indicator reflecting customer value and profitability, guiding pricing strategies and targeted promotions.
+
 🛡️ Risk Level: Visualize churn risk levels to prioritize retention efforts and allocate resources effectively for maximum impact.
+
 📝 Personal Details: Dive into demographic insights such as age, gender, and location to tailor offerings and communication channels to specific customer segments.
+
 📄 Contract Details: Understand contract specifics like type, duration, and terms to optimize renewal strategies and minimize churn risk.
+
 💼 Additional Insights: Explore service usage patterns, feedback, and engagement metrics to craft personalized retention strategies and foster long-term loyalty.
