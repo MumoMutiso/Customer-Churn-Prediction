@@ -1,5 +1,5 @@
 Churn Rate Prediction
---
+-------------------------------------------------------------
 
 Technologies Used
 Power BI
@@ -10,7 +10,7 @@ Plotly
 Scikit-learn
 SMOTEENN
 
---
+--------------------------------------------------------------------------------------------------------------
 
 About the Project
 The churn rate is a metric that shows us the total percentage of clients who discontinue their subscriptions within a certain period.
