@@ -2,13 +2,15 @@ Churn Rate Prediction
 -------------------------------------------------------------
 
 Technologies Used
-Power BI
-Python
-Streamlit
-Pandas
-Plotly
-Scikit-learn
-SMOTEENN
+
+- Power BI
+
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- Scikit-learn
+
 
 --------------------------------------------------------------------------------------------------------------
 
