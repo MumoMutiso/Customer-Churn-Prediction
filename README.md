@@ -23,6 +23,8 @@ In this project, I did an exploratory data analysis on a Telco dataset to find w
 
 
 Customer Profile Overview
+--------------------------------
+
 👤 Customer ID: Unique identifier facilitating personalized engagement and loyalty programs for enhanced customer experience.
 
 🔄 Churn Index: Dynamic metric gauging the propensity of customers to churn, enabling proactive retention measures and revenue protection.
