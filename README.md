@@ -1,5 +1,6 @@
 Churn Rate Prediction
 -------------------------------------------------------------
+![image](https://github.com/MumoMutiso/Telco-Customer-Churn/assets/160124710/0a0a9cae-e73a-4027-99ac-aeac3b0b8a4c)
 
 Technologies Used
 
