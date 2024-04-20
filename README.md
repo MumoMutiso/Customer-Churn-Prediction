@@ -1,16 +1,19 @@
 Churn Rate Prediction
---
+-------------------------------------------------------------
+![image](https://github.com/MumoMutiso/Telco-Customer-Churn/assets/160124710/0a0a9cae-e73a-4027-99ac-aeac3b0b8a4c)
 
 Technologies Used
-Power BI
-Python
-Streamlit
-Pandas
-Plotly
-Scikit-learn
-SMOTEENN
 
---
+- Power BI
+
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- Scikit-learn
+
+
+--------------------------------------------------------------------------------------------------------------
 
 About the Project
 The churn rate is a metric that shows us the total percentage of clients who discontinue their subscriptions within a certain period.
@@ -21,10 +24,18 @@ In this project, I did an exploratory data analysis on a Telco dataset to find w
 
 
 Customer Profile Overview
+--------------------------------
+
 👤 Customer ID: Unique identifier facilitating personalized engagement and loyalty programs for enhanced customer experience.
+
 🔄 Churn Index: Dynamic metric gauging the propensity of customers to churn, enabling proactive retention measures and revenue protection.
+
 💰 Total Charge: Financial indicator reflecting customer value and profitability, guiding pricing strategies and targeted promotions.
+
 🛡️ Risk Level: Visualize churn risk levels to prioritize retention efforts and allocate resources effectively for maximum impact.
+
 📝 Personal Details: Dive into demographic insights such as age, gender, and location to tailor offerings and communication channels to specific customer segments.
+
 📄 Contract Details: Understand contract specifics like type, duration, and terms to optimize renewal strategies and minimize churn risk.
+
 💼 Additional Insights: Explore service usage patterns, feedback, and engagement metrics to craft personalized retention strategies and foster long-term loyalty.
