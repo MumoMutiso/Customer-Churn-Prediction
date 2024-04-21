@@ -39,3 +39,9 @@ Customer Profile Overview
 📄 Contract Details: Understand contract specifics like type, duration, and terms to optimize renewal strategies and minimize churn risk.
 
 💼 Additional Insights: Explore service usage patterns, feedback, and engagement metrics to craft personalized retention strategies and foster long-term loyalty.
+
+Limitations
+----------------------------------------------
+Limitation 1 : In this dataset, we can only see one type of each variables instead of real world situation of changing different options as time passes, e.g., in real world, people might want to try streaming service, but they might change their mind to leave the service next month.
+
+Limitation 2 : We cannot only see these variables as whole factors to understand the exact reasons why customers left because they might leave for better price offered by competitors or the bad economy in certain time, etc. We also cannot see the time they leaked, so it's hard to infer those external situations.
